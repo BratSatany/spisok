@@ -1,5 +1,4 @@
 from random import randint
-retry = 1
 spisok = []
 p = 0
 pol = 0
