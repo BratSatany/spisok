@@ -1,9 +1,9 @@
 from random import randint
+print("суммы 15-ти рандомных положительных и отрицательных чисел")
 spisok = []
 p = 0
 pol = 0
 otr = 0
-print("суммы 15-ти рандомных положительных и отрицательных чисел")
 while len(spisok) !=15:
     a = randint(-100, 100)
     if a == 0:
